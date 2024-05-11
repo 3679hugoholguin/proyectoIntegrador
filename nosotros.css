@@ -1,0 +1,63 @@
+*{
+
+}
+html{
+    background-color: rgb(227, 227, 243);
+
+}
+
+header{
+    display: flex;
+    align-items: center; /* Centra verticalmente */
+    color: white;
+    font-size: x-large;
+    font-weight: bold;
+
+
+}
+
+.logo {
+    margin-right: 400px; /* Ajusta el espacio entre el logo y el título */
+    width: 100px;
+    height: auto;
+
+}
+.logo img{
+    width: 100px;
+    border-radius: 50px;
+}
+
+h1 {
+    margin-left: 100px; /* Elimina el margen predeterminado del título */
+    color: rgb(107, 107, 212);
+}
+
+.ul button {
+    padding: 10px 20px;
+    margin: 5px;
+    font-size: 16px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.img{
+    display: flex;
+    width: 15px;
+    height: 20px;
+    border-radius: 15px;
+       
+    }
+
+    button {
+        color: red;
+      }
+      
+.branding {
+    color: blue;
+  }
+
+  
+      
+      
